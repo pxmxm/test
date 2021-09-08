@@ -16,6 +16,7 @@ from users.models import User
 from utils.oss import OSS
 
 
+# 文章发布
 class ArticleViewSet(mongodb_viewsets.ModelViewSet):
     queryset = Article.objects.all()
     serializer_class = ArticleSerializers
