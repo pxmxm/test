@@ -1,0 +1,162 @@
+[
+  {
+    "model": "sms.TextTemplate",
+    "pk": 1,
+    "fields": {
+      "name": "形式审查未通过",
+      "template": "*提示*",
+      "recipient": null,
+      "enable": false
+    }
+  },
+    {
+    "model": "sms.TextTemplate",
+    "pk": 2,
+    "fields": {
+      "name": "立项复核",
+      "template": "*提示*",
+      "recipient": null,
+      "enable": false
+    }
+  },
+      {
+    "model": "sms.TextTemplate",
+    "pk": 3,
+    "fields": {
+      "name": "立项复核通过",
+      "template": "*提示*",
+      "recipient": null,
+      "enable": false
+    }
+  },
+      {
+    "model": "sms.TextTemplate",
+    "pk": 4,
+    "fields": {
+      "name": "项目退回",
+      "template": "*提示* 项目退回包含（立项复核-项目退回、项目下达-项目退回、签订合同-项目退回）",
+      "recipient": null,
+      "enable": false
+    }
+  },
+      {
+    "model": "sms.TextTemplate",
+    "pk": 5,
+    "fields": {
+      "name": "管理员评审专家审核-同意",
+      "template": "*提示*",
+      "recipient": null,
+      "enable": false
+    }
+  },
+      {
+    "model": "sms.TextTemplate",
+    "pk": 6,
+    "fields": {
+      "name": "签订合同",
+      "template": "您向青秀区科技局申请的科研项目已经通过立项审批，请及时在系统内提交电子合同。",
+      "recipient": null,
+      "enable": true
+    }
+  },
+      {
+    "model": "sms.TextTemplate",
+    "pk": 7,
+    "fields": {
+      "name": "电子合同审核不通过",
+      "template": "*提示*",
+      "recipient": null,
+      "enable": false
+    }
+  },
+      {
+    "model": "sms.TextTemplate",
+    "pk": 8,
+    "fields": {
+      "name": "电子合同审核通过",
+      "template": "*提示*",
+      "recipient": null,
+      "enable": false
+    }
+  },
+      {
+    "model": "sms.TextTemplate",
+    "pk": 9,
+    "fields": {
+      "name": "合同附件审核不通过",
+      "template": "*提示*",
+      "recipient": null,
+      "enable": false
+    }
+  },
+      {
+    "model": "sms.TextTemplate",
+    "pk": 10,
+    "fields": {
+      "name": "合同附件审核通过",
+      "template": "*提示*",
+      "recipient": null,
+      "enable": false
+    }
+  },
+      {
+    "model": "sms.TextTemplate",
+    "pk": 11,
+    "fields": {
+      "name": "变更审核通过",
+      "template": "*提示*",
+      "recipient": null,
+      "enable": false
+    }
+  },
+      {
+    "model": "sms.TextTemplate",
+    "pk": 12,
+    "fields": {
+      "name": "变更审核不通过",
+      "template": "*提示*",
+      "recipient": null,
+      "enable": false
+    }
+  },
+      {
+    "model": "sms.TextTemplate",
+    "pk": 13,
+    "fields": {
+      "name": "验收申请退回",
+      "template": "*提示*",
+      "recipient": null,
+      "enable": false
+    }
+  },
+      {
+    "model": "sms.TextTemplate",
+    "pk": 14,
+    "fields": {
+      "name": "验收审核补正资料",
+      "template": "*提示*",
+      "recipient": null,
+      "enable": false
+    }
+  },
+      {
+    "model": "sms.TextTemplate",
+    "pk": 15,
+    "fields": {
+      "name": "终止申请退回",
+      "template": "*提示*",
+      "recipient": null,
+      "enable": false
+    }
+  },
+      {
+    "model": "sms.TextTemplate",
+    "pk": 16,
+    "fields": {
+      "name": "终止审核补正资料",
+      "template": "*提示*",
+      "recipient": null,
+      "enable": false
+    }
+  }
+]

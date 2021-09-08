@@ -1,0 +1,93 @@
+[
+  {
+    "model": "expert.ExpertProjectType",
+    "pk": 1,
+    "fields": {
+      "name": "“973”计划项目"
+    }
+  },
+  {
+    "model": "expert.ExpertProjectType",
+    "pk": 2,
+    "fields": {
+      "name": "“863”计划项目"
+    }
+  },
+  {
+    "model": "expert.ExpertProjectType",
+    "pk": 3,
+    "fields": {
+      "name": "国家自然科学基金项目"
+    }
+  },
+  {
+    "model": "expert.ExpertProjectType",
+    "pk": 4,
+    "fields": {
+      "name": "省（市）自然科学基金项目"
+    }
+  },
+  {
+    "model": "expert.ExpertProjectType",
+    "pk": 5,
+    "fields": {
+      "name": "国家奖项目"
+    }
+  },
+  {
+    "model": "expert.ExpertProjectType",
+    "pk": 6,
+    "fields": {
+      "name": "省（市）奖项目"
+    }
+  },
+  {
+    "model": "expert.ExpertProjectType",
+    "pk": 7,
+    "fields": {
+      "name": "国际合作项目"
+    }
+  },
+  {
+    "model": "expert.ExpertProjectType",
+    "pk": 8,
+    "fields": {
+      "name": "其他"
+    }
+  },
+  {
+    "model": "expert.ExpertProjectType",
+    "pk": 9,
+    "fields": {
+      "name": "无"
+    }
+  },
+  {
+    "model": "expert.ExpertProjectType",
+    "pk": 10,
+    "fields": {
+      "name": "国家科技重大专项项目"
+    }
+  },
+  {
+    "model": "expert.ExpertProjectType",
+    "pk": 11,
+    "fields": {
+      "name": "国家重点研发计划项目"
+    }
+  },
+  {
+    "model": "expert.ExpertProjectType",
+    "pk": 12,
+    "fields": {
+      "name": "技术创新引导专项（基金）项目"
+    }
+  },
+  {
+    "model": "expert.ExpertProjectType",
+    "pk": 13,
+    "fields": {
+      "name": "基地和人才专项项目"
+    }
+  }
+]
